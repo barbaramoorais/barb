@@ -1,2 +1,1 @@
-# barb
-avaliaçao
+# ResponsvidadeturmaA
