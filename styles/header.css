@@ -56,6 +56,9 @@
 .titulo__cabecalho{
     display: none;
 }
+.logo_bolo{
+    width: 50px;
+}
 @media screen and (min-width: 1024px){
     .titulo__cabecalho{
         font-size: 30px;
